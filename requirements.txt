@@ -1,0 +1,6 @@
+feedparser
+sentence_transformers
+transformers
+kokoro
+soundfile
+torch
